@@ -12,6 +12,7 @@ struct SapleView: View {
             Text("sample, gitty!")
             Text("sample, gitty!")
             Text("plus 1")
+            Text("plus 2")
         }
         .padding()
     }
