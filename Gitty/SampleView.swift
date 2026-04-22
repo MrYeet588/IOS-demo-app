@@ -11,7 +11,7 @@ struct SapleView: View {
         VStack {
             Text("sample, gitty!")
             Text("sample, gitty!")
-
+            Text("plus 1")
         }
         .padding()
     }
